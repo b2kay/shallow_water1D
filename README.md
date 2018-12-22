@@ -1,2 +1,6 @@
 # shallow_water1D
-fdm shallow_water solver 1d
+C++ port of finite difference 1d shallow water solver code written by Jochen Kämpf
+
+exercise 5 FORTRAN
+Ocean Modelling for Beginners Using Open-Source Software
+Authors: Kaempf, Jochen 
